@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera Capstone Project 
+Capstone project for Data Science Specialization
